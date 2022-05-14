@@ -9,13 +9,6 @@
 
   URL to the deployed application: https://col-note-taker.herokuapp.com/
 
-  ## Table of Contents
-
-  -[Installation](#installation)<br>
-  -[Usage](#usage)<br>
-  -[License](#license)<br>
-  -[Questions](#questions)
-
   ## Installation
 
   No install necessary. This website is publicly deployed via Heroku!
